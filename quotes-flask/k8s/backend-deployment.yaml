@@ -15,7 +15,7 @@ spec:
     metadata:
       creationTimestamp: null
       labels:
-        appp: backend
+        app: backend
     spec:
       containers:
         - image: ghcr.io/eficode-academy/quotes-flask-backend:release
